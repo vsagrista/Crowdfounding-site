@@ -20,4 +20,7 @@ class ProjectsController < ApplicationController
 		@projects = Project.all
 		@displayed_projects = Project.take(4)
 	end
+
+	def test
+	end
 end
