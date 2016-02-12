@@ -1,0 +1,2 @@
+module PricecheksHelper
+end
